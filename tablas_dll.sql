@@ -1,3 +1,5 @@
+--Modificacion de prueba 24/03/2018
+
 --creacion de tablas del data warehouse
 
 create table clientes(
